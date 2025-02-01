@@ -1,0 +1,20 @@
+{
+  "name": "walkie-talkie-bots",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.6.5",
+    "@discordjs/core": "^1.0.1",
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^2.0.1",
+    "@discordjs/voice": "^0.16.0",
+    "@discordjs/ws": "^1.0.1",
+    "discord.js": "^14.13.0",
+    "libsodium-wrappers": "^0.7.13",
+    "node-crc": "^1.3.2",
+    "prism-media": "^2.0.0-alpha.0"
+  }
+}
